@@ -1,0 +1,13 @@
+C:\Users\SOGANG\source\repos\TTS2\TTS2\bin\Debug\TTS2.exe.config
+C:\Users\SOGANG\source\repos\TTS2\TTS2\bin\Debug\TTS2.exe
+C:\Users\SOGANG\source\repos\TTS2\TTS2\bin\Debug\TTS2.pdb
+C:\Users\SOGANG\source\repos\TTS2\TTS2\obj\Debug\TTS2.csprojAssemblyReference.cache
+C:\Users\SOGANG\source\repos\TTS2\TTS2\obj\Debug\TTS2.Properties.Resources.resources
+C:\Users\SOGANG\source\repos\TTS2\TTS2\obj\Debug\TTS2.csproj.GenerateResource.cache
+C:\Users\SOGANG\source\repos\TTS2\TTS2\obj\Debug\TTS2.csproj.CoreCompileInputs.cache
+C:\Users\SOGANG\source\repos\TTS2\TTS2\obj\Debug\TTS2.exe
+C:\Users\SOGANG\source\repos\TTS2\TTS2\obj\Debug\TTS2.pdb
+C:\Users\SOGANG\source\repos\TTS2\TTS2\bin\Debug\MetroFramework.dll
+C:\Users\SOGANG\source\repos\TTS2\TTS2\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\SOGANG\source\repos\TTS2\TTS2\obj\Debug\TTS2.csproj.CopyComplete
+C:\Users\SOGANG\source\repos\TTS2\TTS2\obj\Debug\TTS2.Form1.resources
